@@ -13,20 +13,10 @@ tags:
 Afin que les articles viennent à moi, j’ai utilisé l’outil de veille Inoreader. Je me suis dirigé vers cet outil car il permet d’obtenir des informations (pas toujours des articles) à partir de diverses sources telles que: Reddit, des pages Facebook, divers sites proposant des articles, Google News et par flux RSS. 
 
 ## Avantages
-Il permet également de facilement trier les articles et informations récoltées dans des dossiers adaptés au sujet de ceux-ci.
+Il permet également de facilement trier les articles et informations récoltées dans des dossiers adaptés au sujet de ceux-ci. Il est également possible de personnaliser l'interface afin d'avoir une expérience agréable.
+
+## Désavantage
+Beaucoup d'options requiert le mode pro pour pouvoir être utilisées.
 
 ## Recherche
-J’ai recherché des informations liées au thème du frontend/backend, l’UI et l’UX, le CSS et le web development grâce à des hashtags. Je me suis également directement
-
-```javascript
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-[illo](http://talibus-comitem.org/invia)?
+J’ai recherché des informations liées au thème du frontend/backend, l’UI et l’UX, le CSS et le web development grâce à des hashtags. Je me suis également directement abonné à quelques feeds.

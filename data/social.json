@@ -1,5 +1,6 @@
 {
   "links": [
+    
     {
       "name": "github",
       "url": "https://github.com/Tupidix",
@@ -9,6 +10,11 @@
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/ryan-dorasamy-294507207/?originalSubdomain=ch",
       "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "twitch",
+      "url": "https://www.twitch.tv/tupidix_mania",
+      "image": "images/social/twitch.svg"
     }
   ]
 }
