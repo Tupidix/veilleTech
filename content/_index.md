@@ -9,3 +9,5 @@ Durant mon temps libre, je stream également mes parties de jeux vidéos, princi
 
 Ce site a été généré à l’aide du static website generator “Hugo” et utilise le thème “Hugo Winston”.
 
+## Ikigai
+![Ikigai](images/Ikigai.png)

@@ -1,7 +1,7 @@
 ---
-title: Sanity is not statistical
-date: 2018-12-29
-description: 'Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own'
+title: Expérimentation
+date: 2024-01-22
+description: "Mon tout premier site web, présenté pour mon travail de maturité spécialisée à l'eracom qui m'a rapporté la note de 6."
 image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 ---
