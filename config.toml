@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://tupidix.github.io/veilleTech/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
