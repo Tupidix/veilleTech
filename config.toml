@@ -1,6 +1,6 @@
 baseURL = "https://tupidix.github.io/veilleTech/"
 languageCode = "fr-ch"
-theme = "hugo-winston-theme"
+theme = "hugo-theme-2"
 themesDir = "themes"
 title = "Ryan Dorasamy"
 paginate = 3
