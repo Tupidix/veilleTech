@@ -6,30 +6,15 @@
     <description>Recent content in writing on Ryan Dorasamy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ch</language>
-    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tupidix.github.io/veilleTech/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mise en place d&#39;un outil de veille</title>
-      <link>https://tupidix.github.io/veilleTech/posts/language-perfect/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://tupidix.github.io/veilleTech/posts/language-perfect/</guid>
-      <description>He moved over to the window Pour que les articles viennent à moi, j’ai utilisé l’outil de veille Inoreader. Je me suis dirigé vers cet outil car il permet d’obtenir des informations (pas toujours des articles) à partir de diverses sources telles que: Reddit, des pages Facebook, divers sites proposant des articles, Google News et par flux RSS. Il permet également de facilement trier les articles et informations récoltées dans des dossiers adaptés au sujet de ceux-ci.</description>
-    </item>
-    <item>
-      <title>It&#39;s a beautiful thing, the destruction of words</title>
-      <link>https://tupidix.github.io/veilleTech/posts/destruction-of-words/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://tupidix.github.io/veilleTech/posts/destruction-of-words/</guid>
-      <description>He moved over to the window Lorem markdownum comes; pro est modo famulus, quo quod neu manibus aether his nomine, Aurora, voce. Ipse virga res vidit profanis vocatos, quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet prole eveniet superi rus proles venenis potestas Tereo pluribus sunto.
-Perque cessisse, hoc tum auras sinuosa. Pressant nec vinci primoque quoque funibus est: et tempore vetitorum? Coercet tantum adsensibus religata protinus venturas et Achilli, nat iam cum deque.</description>
-    </item>
-    <item>
-      <title>Who controls the past controls the future. Who controls the present controls the past</title>
-      <link>https://tupidix.github.io/veilleTech/posts/controls-the-past/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://tupidix.github.io/veilleTech/posts/controls-the-past/</guid>
-      <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
-Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
+      <link>https://tupidix.github.io/veilleTech/posts/inoreader/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://tupidix.github.io/veilleTech/posts/inoreader/</guid>
+      <description>Inoreader Inoreader est une plateforme de veille puissante qui permet aux utilisateurs de centraliser, organiser et suivre efficacement leurs flux d&amp;rsquo;informations.
+Autrement dit, j’ai utilisé l’outil de veille Inoreader afin de faire venir l&amp;rsquo;information à moi. Je me suis dirigé vers cet outil car il permet d’obtenir des informations (pas toujours des articles) à partir de diverses sources telles que: Reddit, des pages Facebook, divers sites proposant des articles, Google News et par flux RSS.</description>
     </item>
   </channel>
 </rss>
