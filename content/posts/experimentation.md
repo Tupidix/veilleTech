@@ -1,50 +1,21 @@
 ---
-title: Expérimentation
+title: Rythm Master
 date: 2024-01-22
 description: "Mon tout premier site web, présenté pour mon travail de maturité spécialisée à l'eracom qui m'a rapporté la note de 6."
-image: images/cctv2.jpeg
-imageAltAttribute: CCTV Camera
+image: images/rythmMaster.png
+imageAltAttribute: Illustration du site web "Rythm Master"
 ---
 
-## There was no way of knowing whose version would finally be adopted
+## Mon site web
 
-Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own
+Si vous avez porté attention à ma description et avez cliqué sur le lien Twitch dans le pied de page, vous aurez compris que je suis un gros joueur de jeux de rythme.
 
-## Mare torrentur
+c’est pourquoi lors de ma 4ème année de maturité spécialisée à l’eracom j’ai voulu me challenger en proposant un site web à l’aide de mes compétences (qui étaient à l’époque l’HTML et le CSS) qui présente divers jeux de rythmes, quelles sont les spécificités de ceux-ci, comment y jouer, comment devenir meilleur et comment se les procurer.
 
-Mare torrentur tenuerunt Iovemque crudelis erat non manuque nullaque Pyreneus,
-evocet pectus, _nube_. In templo taedia [socerumque moenibus](#dat) alter sic
-regina pulchra rexerat. Corbe est et, **invectae** pariter ignara quod senes:
-sectus his tamen. Hora graves iam prospiciunt, subito spargit germanam _utve_,
-inmeritas frontemque tempora. Frustra stratosque possim trepidare squamis, os,
-tum ipse prodesse acuta Phobetora e viscera, munera!
+Pour ce travail j’ai porté plusieurs casquettes, j’ai écris les contenus, j’ai créé les différents designs, j’ai entièrement codé le site. Ce travail m’avait demandé beaucoup de temps de recherche et de pratique afin de pouvoir rendre ce travail dans les temps.
 
-- Peraravit Themis deserat et stetit taedae quodcumque
-- Grave invitae usque et terraque
-- Spargitque hi dixi
-- Danais oris Ulixes
+Évidemment en revoyant ce travail, je m’aperçois avec mes nouvelles compétences qu’il n’est pas parfait, le site n’est pas responsive il ne s’adapte pas vraiment à la taille de l’écran, les vidéos étaient initialement dans le site au lieu de les uploads sur youtube puis d’ajouter une visionneuse. Le site n’est également pas accessible.
 
-![Street Art Image](https://source.unsplash.com/GqpbdngfiLo/600x400)
+Lors de mon oral j’étais assez nerveux et ai présenté mon utilisation de flexbox que j’avais découvert et m’avait permis d'aligner mes contenu de diverses manières. Sans cela le site aurait probablement pris plus de temps que prévu. On m’a reproché de ne pas avoir rendu le site assez diversifié et un design trop sobre pour quelque chose aussi coloré et stimulant que les jeux de rythmes. Mon travail a cependant bien présenté ce que j’avais appris en classe et par moi même et m’a permis d’obtenir la note de 6.
 
-## Siqua transieram in parte
-
-Relicto solusque saepe dato imas [ea](#non-mea) dixit nullum, rumor addit in
-lacertos. Sparsos ceu geminam crimen femineae mater Minervae.
-
-### Utinam fratresque quem
-
-posuitque** nitenti utinam fratresque quem accede **tibi** et semianimes. Agmine
-prohibebant tuas venerit natus per sicut Aoniis dixit sedens scelus, alios.
-Segetes et **ora mala\*\* Iuppiter remotus, non penates quam pro, urbis repulsae
-insolida tantis sacerdos: et.
-
-- Vultum superatus Baccho ferre
-- Massa arreptamque fluet portas
-- Quaesita si medio virtute nunc ipse extremum
-- Gaudet bubo factorum
-
-Dona domus, certe populis, herbas rettulit curvantur Aeneas sequentur inferiora
-rupit, inque illa [passibus grave coronantur](#horto-in-te) nectare. Molli iam
-aer suus prosternite, vultus per valetque aut iactas rumpunt, et ubi donec.
-Pariter ab ille, nec **per aera thalamis** Cumaea, modo fugit ore placuerunt
-habebit.
+[Lien vers le site Rythm Master](https://tupidix.github.io/RythmMaster/index.html)

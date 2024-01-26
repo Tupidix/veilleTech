@@ -1,77 +1,26 @@
 ---
 title: Accessibilité
 date: 2024-01-25
-description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. "
-image: images/cctv.jpeg
-imageAltAttribute: CCTV Cameras
+description: "Dans un monde de plus en plus connecté, il est primordial que tout le monde puisse accéder aux mêmes informations et services présents sur le web."
+image: images/inquiet.png
+imageAltAttribute: Jeune garçon entouré de lettres ayant l'air inquiet
 tags:
    - writing 
    - lorem 
 ---
 
-# He moved over to the window
+# Pourquoi rendre les sites accessibles ?
 
-Lorem markdownum comes; pro est [modo famulus](#pervenerat), quo quod neu
-manibus aether his nomine, Aurora, voce. Ipse virga res vidit profanis vocatos,
-quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet
-prole eveniet **superi** rus proles venenis potestas Tereo pluribus sunto.
+En 2023, dans un monde de plus en plus connecté, il est primordial que tout le monde puisse accéder aux mêmes informations et services présents sur le web. Rendre tout cela accessible est même une obligation selon la Convention des Nations Unies (CRPD) afin de garantir l'égalité des chances et la participation pleine et entière des personnes handicapées à tous les aspects de la vie.
 
-Perque cessisse, hoc tum auras sinuosa. Pressant nec vinci primoque quoque
-funibus est: et tempore vetitorum? Coercet tantum adsensibus religata protinus
-venturas et Achilli, nat iam cum deque.
+Selon la World Health Organization 16% de la population mondiale est en situation de handicap, que ce soit une déficience visuelle ou auditive. Rendre les sites accessibles n’est plus quelque chose qui doit être ajouté lors de la fin de la création d’un site/contenu web mais doit être réfléchi tout au long de sa conception et création. Voici quelques conseils à suivre.
 
-## Heading 2
+## Pour les malvoyants
 
-Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
-Dixit extulerat; iunctas et [Aeaciden Illa](http://egofateri.net/), visa
-[viris](http://euntemcrepuscula.com/subiecta.html). Ignoro dixit et linquit
-moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si
-nitet inplevit.
+Afin que les lecteurs d’écrans puissent lire correctement les contenus, il est important d’ajouter la langue de la page dans les métadonnées du site. Il faut également remplir les descriptions et légendes de chacunes des images présentes sur le site.
 
-- Saxum sustinuit pugnatum medere temptamenta vellera mihi
-- Verbis meorum canes intraverat simul in quem
-- Cutis mirabile tandemque ut in dominis Abarin
-- Marmore deus orant
+Les liens doivent également posséder une description afin que la liseuse ne lise pas simplement “Lien” mais bien “Lien page Facebook” qui permet à l’utilisateur de savoir ou il va être redirigé en cliquant sur ce dernier. Il faut également s’assurer que le site puisse être traversé en utilisant uniquement le clavier.
 
-### Heading 3
+## Pour les Dyslexique
 
-Oriente nec radios nurus, quod undas, occupat conpescit femina est 🥷.  resistite
-regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
-et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
-quoque **cinnamaque fiducia concurrit**; teneat haec praemia flagrantemque facto
-atque, depositoque fugit pro est loquor, nempe!
-
-#### Heading 4
-
-Enim acclinia opera; _ea gemit_. Cervice sine tibi forma; non inde rubescere
-usque fixurus Echione, ut. Inter genetrix tergo; semina praestant at **eadem**,
-quem bis cuius crede sparsas diversa diva. A inquit cingebant. Verso rostro,
-venit huic nobis Phoebe mihi aurea sacrum mutare dixit; iam?
-
-```javascript
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-
-## Heading 2
-
-<strong>Example of using raw HTML</strong> to insert a <a href="https://www.zerostatic.io" target="_blank">link</a>
-Saeva gaudia; per est subit Ereboque et altaque repetunt repperit aegida
-ingenium humumque vitium quoque distantia vidit. Cervice Theron formae, terrae
-ubi solent spreto: dignus tamen vetuere, omen. Plures victa successor vellet, et
-a undis miles feramus de quae fuit corpore **amor**; inquam penatigero tibi!
-
-> At germana illo undique ducis et utque leti apta amictu, ego avibus. Viridis
-> Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
-
-Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
-Siqua et nomen Achille nox casusque una lex dicit dat, imagine! Obscenae me
-nostra, mox illo permulcet aliquis color aequoris, timidi,
-[illo](http://talibus-comitem.org/invia)?
+Éviter les grands pavés de texte, qui rendent les textes difficiles à naviguer et prioriser des petits paragraphes. Ne pas utiliser des couleurs à haut contraste (par exemple: le noir #000000 et le blanc #FFFFFF) qui peut donner une impression de mouvement. Il faut que les lignes soient bien distinctes les unes des autres. Favoriser l’utilisation de police sans-serif. Éviter de justifier nos paragraphes du à un espacement non-égalisé entre les mots.
