@@ -1,3 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lorem on Ryan Dorasamy</title><link>https://tupidix.github.io/veilleTech/tags/lorem/</link><description>Recent content in lorem on Ryan Dorasamy</description><generator>Hugo -- gohugo.io</generator><language>fr-ch</language><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tupidix.github.io/veilleTech/tags/lorem/index.xml" rel="self" type="application/rss+xml"/><item><title>Accessibilité</title><link>https://tupidix.github.io/veilleTech/posts/accessibility/</link><pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate><guid>https://tupidix.github.io/veilleTech/posts/accessibility/</guid><description>Pourquoi rendre les sites accessibles ? En 2023, dans un monde de plus en plus connecté, il est primordial que tout le monde puisse accéder aux mêmes informations et services présents sur le web. Rendre tout cela accessible est même une obligation selon la Convention des Nations Unies (CRPD) afin de garantir l&amp;rsquo;égalité des chances et la participation pleine et entière des personnes handicapées à tous les aspects de la vie.</description></item><item><title>Boring Design</title><link>https://tupidix.github.io/veilleTech/posts/boringdesign/</link><pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate><guid>https://tupidix.github.io/veilleTech/posts/boringdesign/</guid><description>Uniformisation du web Si vous regardez les chaises ci-dessus, vous observerez rapidement qu&amp;rsquo;elles possèdent chacune un design unique. Il y en a d&amp;rsquo;ailleurs probablement certaines que vous vous voyiez plus acheter que d&amp;rsquo;autres, que ce soit en fonction de vos goûts ou encore en fonction de l&amp;rsquo;apparence de votre lieu de vie. Ce ressentit, je l&amp;rsquo;ai également sur les sites web.
-Problèmes de l&amp;rsquo;uniformisation Les interfaces perdent en diversité visuelle, la visite de ceux-ci devient de moins en moins stimulantes.</description></item><item><title>Mise en place d'un outil de veille</title><link>https://tupidix.github.io/veilleTech/posts/inoreader/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://tupidix.github.io/veilleTech/posts/inoreader/</guid><description>Inoreader Inoreader est une plateforme de veille puissante qui permet aux utilisateurs de centraliser, organiser et suivre efficacement leurs flux d&amp;rsquo;informations.
-Autrement dit, j’ai utilisé l’outil de veille Inoreader afin de faire venir l&amp;rsquo;information à moi. Je me suis dirigé vers cet outil car il permet d’obtenir des informations (pas toujours des articles) à partir de diverses sources telles que: Reddit, des pages Facebook, divers sites proposant des articles, Google News et par flux RSS.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lorem on Ryan Dorasamy</title>
+    <link>https://tupidix.github.io/veilleTech/tags/lorem/</link>
+    <description>Recent content in lorem on Ryan Dorasamy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tupidix.github.io/veilleTech/tags/lorem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mise en place d&#39;un outil de veille</title>
+      <link>https://tupidix.github.io/veilleTech/posts/inoreader/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://tupidix.github.io/veilleTech/posts/inoreader/</guid>
+      <description>Inoreader Inoreader est une plateforme de veille puissante qui permet aux utilisateurs de centraliser, organiser et suivre efficacement leurs flux d&amp;rsquo;informations.
+Autrement dit, j’ai utilisé l’outil de veille Inoreader afin de faire venir l&amp;rsquo;information à moi. Je me suis dirigé vers cet outil car il permet d’obtenir des informations (pas toujours des articles) à partir de diverses sources telles que: Reddit, des pages Facebook, divers sites proposant des articles, Google News et par flux RSS.</description>
+    </item>
+  </channel>
+</rss>
