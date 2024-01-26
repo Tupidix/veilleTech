@@ -4,10 +4,6 @@ date: 2024-01-24
 description: "Pourquoi il est, selon moi, une mauvaise chose que les interfaces deviennent uniforme et simple."
 image: images/chaise.png
 imageAltAttribute: Divers designs de chaises
-tags:
-   - time
-   - writing 
-   - lorem 
 ---
 
 ## Uniformisation du web

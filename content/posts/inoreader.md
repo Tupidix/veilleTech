@@ -4,9 +4,6 @@ date: 2024-01-23
 description: "Voici comment j'ai fais venir l'information à moi grâce à Inoreader et pourquoi j'ai décidé d'utiliser cet outil."
 image: images/inoreader.jpg
 imageAltAttribute: Illustration Inoreader
-tags:
-   - writing 
-   - lorem 
 ---
 
 ## Inoreader

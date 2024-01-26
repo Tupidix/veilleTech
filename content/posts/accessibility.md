@@ -4,9 +4,6 @@ date: 2024-01-25
 description: "Dans un monde de plus en plus connecté, il est primordial que tout le monde puisse accéder aux mêmes informations et services présents sur le web."
 image: images/inquiet.png
 imageAltAttribute: Jeune garçon entouré de lettres ayant l'air inquiet
-tags:
-   - writing 
-   - lorem 
 ---
 
 # Pourquoi rendre les sites accessibles ?
