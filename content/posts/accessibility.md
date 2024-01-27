@@ -21,3 +21,8 @@ Les liens doivent également posséder une description afin que la liseuse ne li
 ## Pour les Dyslexique
 
 Éviter les grands pavés de texte, qui rendent les textes difficiles à naviguer et prioriser des petits paragraphes. Ne pas utiliser des couleurs à haut contraste (par exemple: le noir #000000 et le blanc #FFFFFF) qui peut donner une impression de mouvement. Il faut que les lignes soient bien distinctes les unes des autres. Favoriser l’utilisation de police sans-serif. Éviter de justifier nos paragraphes du à un espacement non-égalisé entre les mots.
+
+### Source
+[Understanding The Importance Of Web Accessibility](https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/understanding-the-importance-of-web-accessibility/?sh=377be1ad377f)
+
+[What to Consider When Designing for Dyslexia](https://uxplanet.org/what-to-consider-when-designing-for-dyslexia-b99d373905ac)

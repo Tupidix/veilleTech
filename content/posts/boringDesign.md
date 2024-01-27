@@ -14,3 +14,6 @@ Les interfaces perdent en diversité visuelle, la visite de ceux-ci devient de m
 
 ## Pour moi
 Je désire créer des interfaces originales afin de pouvoir offrir des parcours stimulants aux utilisateurs de mes sites web/applications web. Il est cependant important de garder à l'esprit que tout comme la chaise, qui doit être solide, mon site doit rester utilisable et accessible à tous.
+
+### Sources
+[A case against boring designs](https://newsletter.uxdesign.cc/p/a-case-against-boring-designs)

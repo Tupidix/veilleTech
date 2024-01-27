@@ -1,9 +1,9 @@
 ---
-title: Article 4
+title: L'Eye Tracking et l'UX
 date: 2024-01-22
 description: "Mon tout premier site web, présenté pour mon travail de maturité spécialisée à l'eracom qui m'a rapporté la note de 6."
-image: images/cctv2.jpeg
-imageAltAttribute: CCTV Camera
+image: images/eyetrack.png
+imageAltAttribute: Personne effectuant un test d'eye tacking
 ---
 
 ## There was no way of knowing whose version would finally be adopted
@@ -48,3 +48,7 @@ rupit, inque illa [passibus grave coronantur](#horto-in-te) nectare. Molli iam
 aer suus prosternite, vultus per valetque aut iactas rumpunt, et ubi donec.
 Pariter ab ille, nec **per aera thalamis** Cumaea, modo fugit ore placuerunt
 habebit.
+
+### Source
+
+[Eye-Tracking and UX](https://uxplanet.org/eye-tracking-and-ux-27009911d951)
