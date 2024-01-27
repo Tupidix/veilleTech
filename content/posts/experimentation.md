@@ -1,6 +1,6 @@
 ---
 title: Rythm Master
-date: 2024-01-22
+date: 2024-01-18
 description: "Mon tout premier site web, présenté pour mon travail de maturité spécialisée à l'eracom qui m'a rapporté la note de 6."
 image: images/rythmMaster.png
 imageAltAttribute: Illustration du site web "Rythm Master"

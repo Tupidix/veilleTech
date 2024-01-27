@@ -1,6 +1,6 @@
 ---
 title: Plugin Figma
-date: 2024-01-22
+date: 2024-01-23
 description: "Figma est un outil répandu dans la création de maquette de site web collaborative. Il existe divers moyen d'améliorer et facilité son travail grâce aux plugins que la communeauté propose. En voici quelques uns."
 image: images/figma.jpeg
 imageAltAttribute: Illustration du logo Figma avec le texte plugin

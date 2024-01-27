@@ -1,53 +1,30 @@
 ---
 title: L'Eye Tracking et l'UX
-date: 2024-01-22
-description: "Mon tout premier site web, présenté pour mon travail de maturité spécialisée à l'eracom qui m'a rapporté la note de 6."
+date: 2024-01-24
+description: "Comment les tests Eye-Tracking peuvent-ils nous aider à améliorer nos sites web ?"
 image: images/eyetrack.png
-imageAltAttribute: Personne effectuant un test d'eye tacking
+imageAltAttribute: Illustration d'une personne effectuant un test d'eye tacking
 ---
 
-## There was no way of knowing whose version would finally be adopted
+## L'UX
 
-Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own
+L'interface utilisateur est un élément qui demande beaucoup de soin et de travail. Elle ne doit pas seulement être visuellement plaisant mais doit également permettre à l'utilisateur de comprendre comment il doit parcourir le site afin de parvenir à son objectif.
 
-## Mare torrentur
+Afin de mesurer son efficacité plusieurs tests peuvent être effectués mais aucun n'est aussi efficace que les métrique que l'Eye-Tracking permet de récolter.
 
-Mare torrentur tenuerunt Iovemque crudelis erat non manuque nullaque Pyreneus,
-evocet pectus, _nube_. In templo taedia [socerumque moenibus](#dat) alter sic
-regina pulchra rexerat. Corbe est et, **invectae** pariter ignara quod senes:
-sectus his tamen. Hora graves iam prospiciunt, subito spargit germanam _utve_,
-inmeritas frontemque tempora. Frustra stratosque possim trepidare squamis, os,
-tum ipse prodesse acuta Phobetora e viscera, munera!
+## L'Eye-Tracking
 
-- Peraravit Themis deserat et stetit taedae quodcumque
-- Grave invitae usque et terraque
-- Spargitque hi dixi
-- Danais oris Ulixes
+Permet, contrairement aux autres tests, de voir sur quoi le regard de l'utilisateur est attiré en premier, combien de temps il doit fixer un élément avant de passer au suivant, dans quel sens il comprend qu'il doit lire le site.
 
-![Street Art Image](https://source.unsplash.com/GqpbdngfiLo/600x400)
+En fonction de combien de temps un utilisateur a regardé un endroit du site, plus les points seront gros (gazepoints). Il est également possible de l'analyser en heatmap se qui va afficher en couleur chaude les endroits globaux ou l'utilisateur a regardé le plus longtemps.
 
-## Siqua transieram in parte
+Toutes ces données vont permettre de savoir si un élément important est assez mis en avant ou non, ou à l'inverse si un élément non important est trop mis en avant. Ainsi que d'observer la chorégraphie que les utilisateurs prennent pour se balader dans notre site.
 
-Relicto solusque saepe dato imas [ea](#non-mea) dixit nullum, rumor addit in
-lacertos. Sparsos ceu geminam crimen femineae mater Minervae.
+## Test
 
-### Utinam fratresque quem
+De manière générale, on donne au testé un scénario qu'il va devoir effectuer et lui donner un objectif clair ou en lui demandant de préciser quand il pense avoir terminé la tâche. À la fin de chaque tâches il faut poser quelques question à l'utilisateur afin d'améliorer la compréhension des mesures. Par exemple ce n'est pas parce qu'il fixe longtemps une partie du site qu'il est intéressé par cette partie mais peut-être parce que la compréhension de cette partie lui demande plus d'effort.
 
-posuitque** nitenti utinam fratresque quem accede **tibi** et semianimes. Agmine
-prohibebant tuas venerit natus per sicut Aoniis dixit sedens scelus, alios.
-Segetes et **ora mala\*\* Iuppiter remotus, non penates quam pro, urbis repulsae
-insolida tantis sacerdos: et.
-
-- Vultum superatus Baccho ferre
-- Massa arreptamque fluet portas
-- Quaesita si medio virtute nunc ipse extremum
-- Gaudet bubo factorum
-
-Dona domus, certe populis, herbas rettulit curvantur Aeneas sequentur inferiora
-rupit, inque illa [passibus grave coronantur](#horto-in-te) nectare. Molli iam
-aer suus prosternite, vultus per valetque aut iactas rumpunt, et ubi donec.
-Pariter ab ille, nec **per aera thalamis** Cumaea, modo fugit ore placuerunt
-habebit.
+Toutes ces métriques vont permettre d'ajuster le site en fonction de ce qui a pu être obtenu grâce à ces tests. En analysant notemment les pains de l'utilisateur, le sens de lecture, sur quel lieu l'utilisateur s'est arrêté, s'il y a plusieurs moyens d'accomplir la mission par quel moyen il y est arrivé.
 
 ### Source
 

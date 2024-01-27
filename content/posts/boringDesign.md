@@ -1,6 +1,6 @@
 ---
 title: Boring Design
-date: 2024-01-24
+date: 2024-01-22
 description: "Pourquoi il est, selon moi, une mauvaise chose que les interfaces deviennent uniforme et simple."
 image: images/chaise.png
 imageAltAttribute: Divers designs de chaises
